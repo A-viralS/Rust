@@ -2,6 +2,7 @@ fn main() {
     let x = 4;
     println!("the value of x is : {}", x);
     {
+        //this is called name shadowing
         let x = 2;
         println!("the value of x is : {}", x);
     }

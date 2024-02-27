@@ -1,1 +1,1 @@
-/Users/aviralsoni/Desktop/blockchain/Rust/ownership/target/debug/ownership: /Users/aviralsoni/Desktop/blockchain/Rust/ownership/src/main.rs
+/Users/aviralsoni/Desktop/blockchain/Rust/ownership/target/debug/ownership: /Users/aviralsoni/Desktop/blockchain/Rust/ownership/src/main.rs /Users/aviralsoni/Desktop/blockchain/Rust/ownership/src/slices.rs
